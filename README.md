@@ -1,4 +1,4 @@
 # kaifkohli-demo
 This is my first Git Repository.
 <br>
-Auther - Kaif Kohli
+Auther - Kaif Kohli (Khan)
